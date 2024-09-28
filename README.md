@@ -111,3 +111,17 @@ III. Problem Statement: *contains all the mere details on how to approach to the
 IV. Images: *Folder containing visualization outputs (accuracy/loss curves, confusion matrices).*
 
 V. LICENSE: *A short and simple permissive license with conditions only requiring preservation of copyright and license notices.* 
+
+<h2 align="center">🌟 Exciting Update: Internship Completion! 🌟</h3>
+
+This project was a part of the Internship (Machine Learning Intern at Skolar) which I have successfully completed during April 2024 to June 2024. 🎉
+
+During this internship, I had the amazing opportunity to work on an Image Classification project using CNN and MLP on the MNIST and Fashion MNIST datasets. This project helped me enhance my skills in deep learning, hyperparameter tuning, and model analysis. The experience was both challenging and incredibly rewarding.
+
+💡 Key Takeaways:
+
+1. Mastered the application of CNNs and MLPs in image classification.
+2. Gained a deeper understanding of hyperparameter tuning and model optimization.
+3. Improved my ability to analyze and interpret model results using visualizations and confusion matrices.
+
+📢 P.S. I have provided the intership certificate in the files.
